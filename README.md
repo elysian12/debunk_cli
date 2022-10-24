@@ -12,15 +12,20 @@ A Very Good Command-Line Interface for Dart.
 ## Installing
 
 ```sh
-dart pub global activate debunk_cli
+dart pub global activate debunk
 ```
 
 
 ## Commands
 
-### `debunk_cli create <projet-name>`
+### `debunk create <projet-name>`
 
-Create a very good project in seconds based on the provided template.
+Create a flutter project in seconds based on the provided template.
+
+
+### `debunk install <package-name>`
+
+adds a packages to the project.
 
 
 
